@@ -1,4 +1,3 @@
-/* App.css - Same styles as vanilla CSS version, adapted for React */
 * {
     margin: 0;
     padding: 0;
@@ -17,7 +16,6 @@ body {
     margin: 0 auto;
 }
 
-/* Include all CSS from style.css here - same exact styles */
 .library-details {
     background: white;
     border-radius: 15px;
@@ -33,8 +31,6 @@ body {
     text-align: center;
 }
 
-/* ... (Copy all styles from style.css above) ... */
-
 .book-management {
     background: white;
     border-radius: 15px;
@@ -47,6 +43,3 @@ body {
     margin-bottom: 25px;
     font-size: 2em;
 }
-
-/* Add all remaining styles from the vanilla CSS version */
-
